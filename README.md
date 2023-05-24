@@ -31,4 +31,4 @@ Please make sure to update tests as appropriate.
 ## License
 MIT License
 
-Copyright (c) 2020 Lokesh Raj Singhi, Saket Mahto, Yash Goenka
+Copyright (c) 2023 Mian Saqib Iqbal, Ali Tahir Gujjar
